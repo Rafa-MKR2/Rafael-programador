@@ -309,8 +309,7 @@ footer p{
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background: rgba(3, 19, 22, 0.9);
-  mix-blend-mode: hard-light;
+  background: rgba(4, 17, 19, 0.877);
   border-radius: 8px;
 }
 .container-img:hover .overlay {
