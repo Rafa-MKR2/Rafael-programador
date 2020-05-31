@@ -155,7 +155,9 @@ a:hover{
 
 .btn-rafael{
   position: relative;
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
   padding: 20px 10px;
   margin: 40px auto 90px auto;
   color: #03e9f4;
